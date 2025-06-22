@@ -127,11 +127,11 @@ We evaluate how different TXOP lengths influence 802.11ac uplink throughput and 
 
 #### Result
 
-![txop_comparison_plot_load_0_10](https://github.com/jackychiangtw/wifi-sim/blob/main/Simulation/Python-UL-Scheduler/burst_comparison_plot_load_0_10.png =300x)
-![txop_comparison_plot_load_0_30](https://github.com/jackychiangtw/wifi-sim/blob/main/Simulation/Python-UL-Scheduler/burst_comparison_plot_load_0_30.png =300x)
-![txop_comparison_plot_load_0_50](https://github.com/jackychiangtw/wifi-sim/blob/main/Simulation/Python-UL-Scheduler/burst_comparison_plot_load_0_50.png =300x)
-![txop_comparison_plot_load_0_70](https://github.com/jackychiangtw/wifi-sim/blob/main/Simulation/Python-UL-Scheduler/burst_comparison_plot_load_0_70.png =300x)
-![txop_comparison_plot_load_0_90](https://github.com/jackychiangtw/wifi-sim/blob/main/Simulation/Python-UL-Scheduler/burst_comparison_plot_load_0_90.png =300x)
+![txop_comparison_plot_load_0_10.png](https://github.com/jackychiangtw/wifi-sim/blob/main/Simulation/Python-UL-Scheduler/txop_comparison_plot_load_0_10.png)
+![txop_comparison_plot_load_0_30.png](https://github.com/jackychiangtw/wifi-sim/blob/main/Simulation/Python-UL-Scheduler/txop_comparison_plot_load_0_30.png)
+![txop_comparison_plot_load_0_50.png](https://github.com/jackychiangtw/wifi-sim/blob/main/Simulation/Python-UL-Scheduler/txop_comparison_plot_load_0_50.png)
+![txop_comparison_plot_load_0_70.png](https://github.com/jackychiangtw/wifi-sim/blob/main/Simulation/Python-UL-Scheduler/txop_comparison_plot_load_0_70.png)
+![txop_comparison_plot_load_0_90.png](https://github.com/jackychiangtw/wifi-sim/blob/main/Simulation/Python-UL-Scheduler/txop_comparison_plot_load_0_90.png)
 
 #### Discusion 
 
@@ -157,7 +157,12 @@ To show the progress of legacy CSMA (802.11ac), OFDMA with 1‑RU per STA (802.1
 
 #### Result
 
-![all_phy_comparison_plot_load_0_10](https://hackmd.io/_uploads/B1oJxnSNll.png =300x)![all_phy_comparison_plot_load_0_30](https://hackmd.io/_uploads/rkj1lnSVxl.png =300x)![all_phy_comparison_plot_load_0_50](https://hackmd.io/_uploads/rkiye2HVel.png =300x)![all_phy_comparison_plot_load_0_70](https://hackmd.io/_uploads/Hyjkl2rEee.png =300x)![all_phy_comparison_plot_load_0_90](https://hackmd.io/_uploads/Syjyl2BNll.png =300x)
+![phy_comparison_plot_load_0_10](https://github.com/jackychiangtw/wifi-sim/blob/main/Simulation/Python-UL-Scheduler/phy_comparison_plot_load_0_10.png)
+![phy_comparison_plot_load_0_30](https://github.com/jackychiangtw/wifi-sim/blob/main/Simulation/Python-UL-Scheduler/phy_comparison_plot_load_0_30.png)
+![phy_comparison_plot_load_0_50](https://github.com/jackychiangtw/wifi-sim/blob/main/Simulation/Python-UL-Scheduler/phy_comparison_plot_load_0_50.png)
+![phy_comparison_plot_load_0_70](https://github.com/jackychiangtw/wifi-sim/blob/main/Simulation/Python-UL-Scheduler/phy_comparison_plot_load_0_70.png)
+![phy_comparison_plot_load_0_90](https://github.com/jackychiangtw/wifi-sim/blob/main/Simulation/Python-UL-Scheduler/phy_comparison_plot_load_0_90.png)
+
 
 #### Discusion 
 
@@ -184,7 +189,11 @@ To highlight the advtanges of algorithm, we fix 30 STAs and sweep the burst fact
 
 
 #### Result
-![burst_comparison_plot_load_0_10](https://hackmd.io/_uploads/SkTbg2BVel.png =300x)![burst_comparison_plot_load_0_30](https://hackmd.io/_uploads/rk6WehrNlx.png =300x)![burst_comparison_plot_load_0_50](https://hackmd.io/_uploads/BJTZlnB4gg.png =300x)![burst_comparison_plot_load_0_70](https://hackmd.io/_uploads/S1aWenSNxx.png =300x)![burst_comparison_plot_load_0_90](https://hackmd.io/_uploads/B1abenSEgx.png =300x)
+![burst_comparison_plot_load_0_10](https://github.com/jackychiangtw/wifi-sim/blob/main/Simulation/Python-UL-Scheduler/burst_comparison_plot_load_0_10.png)
+![burst_comparison_plot_load_0_30](https://github.com/jackychiangtw/wifi-sim/blob/main/Simulation/Python-UL-Scheduler/burst_comparison_plot_load_0_30.png)
+![burst_comparison_plot_load_0_50](https://github.com/jackychiangtw/wifi-sim/blob/main/Simulation/Python-UL-Scheduler/burst_comparison_plot_load_0_50.png)
+![burst_comparison_plot_load_0_70](https://github.com/jackychiangtw/wifi-sim/blob/main/Simulation/Python-UL-Scheduler/burst_comparison_plot_load_0_70.png)
+![burst_comparison_plot_load_0_90](https://github.com/jackychiangtw/wifi-sim/blob/main/Simulation/Python-UL-Scheduler/burst_comparison_plot_load_0_90.png)
 
 
 #### Discussion
