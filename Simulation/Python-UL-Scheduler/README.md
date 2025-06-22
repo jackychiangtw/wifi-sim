@@ -106,7 +106,7 @@ This example shows the simple result among different number of STAs with static 
 python3 wifi_gen_sim.py --compare_sta --n_sta_start 1 --n_sta_end 29 --n_sta_step 4 --plot --burst_prob 0.1 --burst_factor 10 --arrival_rate 3e6 --allow_full_channel_alloc
 ```
 
-![image](https://hackmd.io/_uploads/Hk-dFNHElx.png)
+![image](https://github.com/jackychiangtw/wifi-sim/blob/main/Simulation/Python-UL-Scheduler/example.png)
 
 ## 6 Analysis Example
 
