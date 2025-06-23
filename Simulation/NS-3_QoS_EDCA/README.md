@@ -6,7 +6,7 @@ This simulation demonstrates the result of Analysis of paper [IEEE 802.11e for Q
 
 To support QoS features, Enhanced Distributed Channel Access (EDCA) assigns different Arbitration inter-frame spacing (AIFS) and backoff (CWmin/max) to let high prority data is  transmitted earily. 
 
-[paper_qos](https://github.com/jackychiangtw/wifi-sim/blob/main/Simulation/NS-3_QoS_EDCA/Paper_edca_qos_aifs_cw.png)
+![paper_qos](https://github.com/jackychiangtw/wifi-sim/blob/main/Simulation/NS-3_QoS_EDCA/Paper_edca_qos_aifs_cw.png)
 
 ## Parameter
 
@@ -26,10 +26,10 @@ To support QoS features, Enhanced Distributed Channel Access (EDCA) assigns diff
 ## Result
 
 - This Simulation's result
-[simulation_result](https://github.com/jackychiangtw/wifi-sim/blob/main/Simulation/NS-3_QoS_EDCA/Simulation_result.png)
+![simulation_result](https://github.com/jackychiangtw/wifi-sim/blob/main/Simulation/NS-3_QoS_EDCA/Simulation_result.png)
 
 - Paper' result
-[paper_result](https://github.com/jackychiangtw/wifi-sim/blob/main/Simulation/NS-3_QoS_EDCA/Paper_result.png)
+![paper_result](https://github.com/jackychiangtw/wifi-sim/blob/main/Simulation/NS-3_QoS_EDCA/Paper_result.png)
 
 ## Discussion
 
